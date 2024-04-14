@@ -1,5 +1,6 @@
 # NursultanSagynbaevCOM20_Situational.Task_Python
 
+Presentation for beginners . Python Language
 ![Снимок экрана (30)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/5ee4e6ec-fbcb-400c-8901-d672e54c5556)
 ![Снимок экрана (31)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/4e0e0e2a-36ad-4c06-8233-fb95769b9813)
 ![Снимок экрана (35)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/e6a0abe9-1f57-4056-aae5-352c08a75e6e)
