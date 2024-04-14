@@ -1,1 +1,1 @@
-# NursultanSagynbaevCOM20_ST_Python
+# NursultanSagynbaevCOM20_Situational.TaskT_Python
