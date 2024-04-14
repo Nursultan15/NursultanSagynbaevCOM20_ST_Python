@@ -1,9 +1,10 @@
 # NursultanSagynbaevCOM20_Situational.Task_Python
-![Снимок экрана (36)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/df7718ab-3ca1-4604-b343-ca2099c415c7)
-![Снимок экрана (35)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/fdf1ba59-daeb-457e-a341-662ba8153543)
-![Снимок экрана (32)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/0cc7097f-641a-413d-bf6b-cfa65e7d1293)
-![Снимок экрана (31)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/aa30a838-8f9a-473a-b80a-e6d1e6d5a9c2)
-![Снимок экрана (30)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/fedd3ded-a593-43ff-b042-5cc3bbf0fa31)
-![Снимок экрана (39)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/21102844-ea73-4687-b149-1ebffa92c466)
-![Снимок экрана (38)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/b6b4285b-80ad-4327-8c3f-c145646605f2)
-![Снимок экрана (37)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/20441531-4a52-4f95-9aa2-97478d194621)
+
+![Снимок экрана (39)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/3cfbc99f-6b7f-48e5-a20d-3842edec75b6)
+![Снимок экрана (38)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/e0573d19-07ca-4331-b5c8-7954fd540baa)
+![Снимок экрана (37)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/88abe840-30ac-403b-8318-fe8c8dd58726)
+![Снимок экрана (36)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/0c942f07-87b7-4b53-aa1d-83cd56afe3b7)
+![Снимок экрана (35)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/d52d93f2-8f5c-411c-9d01-0ae62ba966e0)
+![Снимок экрана (32)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/0aea27f3-167b-429a-90c0-971c5da36e8e)
+![Снимок экрана (31)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/ec45436c-beb1-4f0b-95c2-e462805d4eb1)
+![Снимок экрана (30)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/9bd896d8-a349-4648-b76c-ec263890acdb)
