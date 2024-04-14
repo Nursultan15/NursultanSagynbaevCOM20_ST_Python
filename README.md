@@ -1,0 +1,1 @@
+# NursultanSagynbaevCOM20_ST_Python
