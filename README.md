@@ -8,7 +8,8 @@ Hello . My presentation will help novice programmers practice the Python languag
 
 
 PDF File of Presentation : [alatoo.edu.kg.pdf](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/files/14975475/alatoo.edu.kg.pdf)
-
+But Video Lessons in PDF Presentation will not work .
+So I recommend you this link to Canva : https://www.canva.com/design/DAGCZl_FbJk/HK0p5g5l8ESmuJJxwMIeTg/edit?utm_content=DAGCZl_FbJk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
