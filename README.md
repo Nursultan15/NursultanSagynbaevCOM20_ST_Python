@@ -2,6 +2,8 @@
 
 ## NursultanSagynbaevCOM20_Situational.Task_Python
 
+#Hello . My presentation will help novice programmers practice the Python language
+
 
 #Presentation for beginners . Python Language
 
@@ -28,3 +30,6 @@
 ![Снимок экрана (42)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/e9468df4-6547-421d-8a18-fb2ea6d3a062)
 ![Снимок экрана (![Снимок экрана (44)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/64f9d698-514e-4284-ba38-8dfef191fca0)
 43)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/e59adbba-57c4-46b4-84f5-a73e263c0165)
+![Снимок экрана (44)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/79335fe8-5515-4a33-87bf-b934c40c4158)
+
+
