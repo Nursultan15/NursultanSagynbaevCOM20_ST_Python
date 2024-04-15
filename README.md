@@ -5,7 +5,9 @@
 Hello . My presentation will help novice programmers practice the Python language
 
 
-[alatoo.edu.kg.pdf](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/files/14975475/alatoo.edu.kg.pdf)
+
+
+PDF File of Presentation : [alatoo.edu.kg.pdf](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/files/14975475/alatoo.edu.kg.pdf)
 
 
 
