@@ -5,6 +5,13 @@
 Hello . My presentation will help novice programmers practice the Python language
 
 
+[alatoo.edu.kg.pdf](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/files/14975475/alatoo.edu.kg.pdf)
+
+
+
+
+
+
 Presentation for beginners . Python Language
 
 ![Снимок экрана (30)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/5ee4e6ec-fbcb-400c-8901-d672e54c5556)
