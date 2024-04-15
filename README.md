@@ -22,6 +22,7 @@
 ![Снимок экрана (39)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/867dbd68-d13e-4d5d-87d1-6e14e206f506)
 ![Снимок экрана (40)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/4bd0c8fb-a0a2-4cea-8ea4-f2823a2933ec)
 
+#FIRST TOPICS OF PYTHON
 
 ![Снимок экрана (41)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/b7e59bdf-c97e-4ef9-8b48-d7b64a2c4586)
 ![Снимок экрана (42)](https://github.com/Nursultan15/NursultanSagynbaevCOM20_ST_Python/assets/73534336/e9468df4-6547-421d-8a18-fb2ea6d3a062)
